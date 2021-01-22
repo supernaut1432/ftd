@@ -1,0 +1,35 @@
+{
+  "Actor": {},
+  "Item":{
+    "types":[
+      "weapon",
+      "gear"
+    ],
+    "templates":{
+      "itemDescription":{
+        "description":""
+      },
+      "equipmentLoad":{
+        "load": 0
+      }
+    },
+    "weapon":{
+      "templates": [
+        "itemDescription",
+        "equipmentLoad"
+      ],
+      "damage": 0,
+      "range": "melee",
+      "proficiency": "simple",
+      "durability": 0,
+      "descriptor": ""
+    },
+    "gear":{
+      "templates": [
+        "itemDescription",
+        "equipmentLoad"
+      ],
+      "supply": 0
+    }
+  }
+}

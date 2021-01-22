@@ -1,0 +1,26 @@
+{
+  "name": "ftd",
+  "title": "Five Torches Deep",
+  "description": "A system for playing Five Torches Deep on Foundry VTT",
+  "author": "Supernaut",
+  "version": 0.01,
+  "minimumCoreVersion": "0.7.9",
+  "compatibleCoreVersion": "0.7.9",
+  "esmodules": [
+    "ftd.js"
+  ],
+  "styles": [
+    "ftd.css"
+  ],
+  "packs": [
+
+  ],
+  "languages": [
+
+  ],
+  "gridDistance": 5,
+  "gridUnits": "ft",
+  "primaryTokenAttribute": "hitpoints",
+  "initiative": "@dexterity"
+  
+}
